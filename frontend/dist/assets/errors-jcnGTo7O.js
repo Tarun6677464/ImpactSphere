@@ -1,0 +1,1 @@
+function i(s,p="Something went wrong"){var a,n,t,g;return((n=(a=s==null?void 0:s.response)==null?void 0:a.data)==null?void 0:n.message)||((g=(t=s==null?void 0:s.response)==null?void 0:t.data)==null?void 0:g.error)||(s==null?void 0:s.message)||p}export{i as g};
